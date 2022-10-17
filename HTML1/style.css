@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    border-style: solid;
+    background-color: white;
+  }
+
+.box {
+    background: white;
+    border-style: solid;
+    width: 50%;
+    height: auto;
+    margin: auto;
+  }
+
+.box2 {
+    background: white;
+    border-style: solid;
+    margin: auto;
+}
+
+body {
+    background: aqua;
+}
